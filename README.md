@@ -1,6 +1,6 @@
 # CekGenapGanjil
 
- Latihan 1 (Muhammad Fajar Fitrianto_2210010748)
+ Tugas 1 (Muhammad Fajar Fitrianto_2210010748)
 
  KELAS : 5B NonReg Banjarmasin
 
